@@ -25,4 +25,4 @@ server 192.168.0.254 iburst
 # chronyc sources                              
 
 
-![image alt]()
+![image alt](https://github.com/Sidh1911/Linux-NTP-Server-Project/blob/59eff964d1e85c7efb41e956a810a7df5116fd66/6093565678649544614.jpg)
